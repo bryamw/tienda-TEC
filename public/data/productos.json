@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP 240 G7",
+    "categoria": "Laptops",
+    "precio": 1299,
+    "imagen": "/img/laptop 1 HP-240-G7-N4100-2.jpg",
+    "descripcion": "Laptop práctica para estudiar y trabajar.",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Laptop Gamer ASUS GX551QM",
+    "categoria": "Laptops",
+    "precio": 4899,
+    "imagen": "/img/laptop 2 gamer asus GX551QM.jpg",
+    "descripcion": "Equipo gamer para alto rendimiento.",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "nombre": "iPhone 18 Pro",
+    "categoria": "Smartphones",
+    "precio": 5499,
+    "imagen": "/img/iphone 18 pro 1.jpg",
+    "descripcion": "Smartphone premium de última generación.",
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "nombre": "Samsung Galaxy S26 Ultra",
+    "categoria": "Smartphones",
+    "precio": 5299,
+    "imagen": "/img/sansung galaxy s26 ultra 2.jpg",
+    "descripcion": "Tecnología móvil para tu día a día.",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "nombre": "Audífonos Inalámbricos",
+    "categoria": "Audífonos",
+    "precio": 199,
+    "imagen": "/img/audifonos 1.png",
+    "descripcion": "Escucha tu música sin cables.",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "nombre": "Audífonos Bluetooth",
+    "categoria": "Audífonos",
+    "precio": 149,
+    "imagen": "/img/audifonos 2.jpg",
+    "descripcion": "Sonido y comodidad en cualquier lugar.",
+    "stock": 10
+  }
+]
